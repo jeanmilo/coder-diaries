@@ -1,6 +1,6 @@
 # coder-diaries
 
-![tumbleweed](https://i.ytimg.com/vi/dATZsuPdOnM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBEaE_0e0wTO8vFs_jy9Lly-kU11Q)
+![tumbleweed](https://media.tenor.com/Ofev06wBI64AAAAM/tumbleweed-highway.gif)
 
 
 this repo is currently very empty as this project is still very much in its early stages... 
